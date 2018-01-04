@@ -1,0 +1,33 @@
+{
+  "name": "material-ui-flat-colors",
+  "version": "0.1.0",
+  "description": "Flat UI Colors for Material UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "npx browserify docs/app.babel.js -t [ babelify --presets [ env ] ] -o docs/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hybrid-Force/Material-UI-Flat-Colors.git"
+  },
+  "keywords": [
+    "material",
+    "ui",
+    "flat",
+    "colors"
+  ],
+  "author": "Derek Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hybrid-Force/Material-UI-Flat-Colors/issues"
+  },
+  "homepage": "https://github.com/Hybrid-Force/Material-UI-Flat-Colors#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
+    "browserify": "^14.5.0"
+  }
+}
