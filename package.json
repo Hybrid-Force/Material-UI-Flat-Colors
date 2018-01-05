@@ -1,12 +1,12 @@
 {
   "name": "material-ui-flat-colors",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Flat UI Colors for Material UI",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs": "npx browserify docs/app.babel.js -t [ babelify --presets [ env ] ] -o docs/app.js",
-    "build": "npx babel src --presets env -d dist && cp package.json dist"
+    "build": "npx babel src --presets env -d dist && cp package.json dist && cp README.md dist"
   },
   "repository": {
     "type": "git",
