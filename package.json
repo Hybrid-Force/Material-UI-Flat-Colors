@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs": "npx browserify docs/app.babel.js -t [ babelify --presets [ env ] ] -o docs/app.js",
-    "build": "npx babel src --presets env -d dist && cp package.json dist && cp README.md dist"
+    "build": "tsc && cp package.json dist && cp README.md dist"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,7 @@
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babelify": "^8.0.0",
-    "browserify": "^14.5.0"
+    "browserify": "^14.5.0",
+    "typescript": "^3.9.5"
   }
 }
