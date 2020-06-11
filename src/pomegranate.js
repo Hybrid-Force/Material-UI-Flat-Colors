@@ -13,7 +13,6 @@ const pomegranate = {
     A200: '#ff9e9a',
     A400: '#ff6c67',
     A700: '#ff544d',
-    'contrastDefaultColor': 'light',
 };
 
 export default pomegranate;

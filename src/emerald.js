@@ -13,7 +13,6 @@ const emerald = {
     A200: '#abffc2',
     A400: '#78ff9c',
     A700: '#5eff8a',
-    'contrastDefaultColor': 'dark',
 };
 
 export default emerald;

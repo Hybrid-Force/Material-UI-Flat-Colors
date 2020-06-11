@@ -13,7 +13,6 @@ const concrete = {
     A200: '#c2f7fc',
     A400: '#8cf4ff',
     A700: '#73f2ff',
-    'contrastDefaultColor': 'dark',
 };
 
 export default concrete;

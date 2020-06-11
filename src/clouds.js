@@ -13,7 +13,6 @@ const clouds = {
     A200: '#ffffff',
     A400: '#ffffff',
     A700: '#ffffff',
-    'contrastDefaultColor': 'dark',
 };
 
 export default clouds;

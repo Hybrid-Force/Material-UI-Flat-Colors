@@ -13,7 +13,6 @@ const asbestos = {
     A200: '#96f2f9',
     A400: '#5df3ff',
     A700: '#44f2ff',
-    'contrastDefaultColor': 'dark',
 };
 
 export default asbestos;

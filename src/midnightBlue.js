@@ -13,7 +13,6 @@ const midnightBlue = {
     A200: '#358fff',
     A400: '#0272ff',
     A700: '#0067e7',
-    'contrastDefaultColor': 'light',
 };
 
 export default midnightBlue;

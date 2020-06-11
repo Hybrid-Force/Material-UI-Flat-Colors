@@ -13,7 +13,6 @@ const belizeHole = {
     A200: '#90c3ff',
     A400: '#5da7ff',
     A700: '#4499ff',
-    'contrastDefaultColor': 'light',
 };
 
 export default belizeHole;

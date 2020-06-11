@@ -13,7 +13,6 @@ const turquoise = {
     A200: '#90ffdc',
     A400: '#5dffcc',
     A700: '#44ffc4',
-    'contrastDefaultColor': 'dark',
 };
 
 export default turquoise;

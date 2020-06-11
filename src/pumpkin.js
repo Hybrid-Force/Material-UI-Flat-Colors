@@ -13,7 +13,6 @@ const pumpkin = {
     A200: '#ffbaad',
     A400: '#ff8f7a',
     A700: '#ff7961',
-    'contrastDefaultColor': 'light',
 };
 
 export default pumpkin;

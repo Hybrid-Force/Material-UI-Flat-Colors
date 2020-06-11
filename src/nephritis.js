@@ -13,7 +13,6 @@ const nephritis = {
     A200: '#82ffa4',
     A400: '#4fff7f',
     A700: '#36ff6d',
-    'contrastDefaultColor': 'light',
 };
 
 export default nephritis;

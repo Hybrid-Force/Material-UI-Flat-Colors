@@ -13,7 +13,6 @@ const wisteria = {
     A200: '#d38cff',
     A400: '#bf59ff',
     A700: '#b640ff',
-    'contrastDefaultColor': 'light',
 };
 
 export default wisteria;

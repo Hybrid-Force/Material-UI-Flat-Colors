@@ -13,7 +13,6 @@ const sunFlower = {
     A200: '#fff3da',
     A400: '#ffe1a7',
     A700: '#ffd98e',
-    'contrastDefaultColor': 'dark',
 };
 
 export default sunFlower;

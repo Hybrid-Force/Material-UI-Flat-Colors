@@ -13,7 +13,6 @@ const greenSea = {
     A200: '#6fffd2',
     A400: '#3cffc2',
     A700: '#23ffba',
-    'contrastDefaultColor': 'light',
 };
 
 export default greenSea;

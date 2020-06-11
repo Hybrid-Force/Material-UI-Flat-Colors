@@ -13,7 +13,6 @@ const carrot = {
     A200: '#ffdbcd',
     A400: '#ffb79a',
     A700: '#ffa580',
-    'contrastDefaultColor': 'dark',
 };
 
 export default carrot;

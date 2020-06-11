@@ -13,7 +13,6 @@ const alizarin = {
     A200: '#ffd9d7',
     A400: '#ffa8a4',
     A700: '#ff8f8b',
-    'contrastDefaultColor': 'light',
 };
 
 export default alizarin;

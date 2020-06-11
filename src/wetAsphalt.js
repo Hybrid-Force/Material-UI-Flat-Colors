@@ -13,7 +13,6 @@ const wetAsphalt = {
     A200: '#3f8fff',
     A400: '#0c71ff',
     A700: '#0065f1',
-    'contrastDefaultColor': 'light',
 };
 
 export default wetAsphalt;

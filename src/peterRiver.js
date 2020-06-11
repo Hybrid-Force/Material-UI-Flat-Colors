@@ -13,7 +13,6 @@ const peterRiver = {
     A200: '#c2ddff',
     A400: '#8fc1ff',
     A700: '#75b3ff',
-    'contrastDefaultColor': 'dark',
 };
 
 export default peterRiver;

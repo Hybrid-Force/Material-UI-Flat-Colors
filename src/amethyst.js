@@ -13,7 +13,6 @@ const amethyst = {
     A200: '#dea1ff',
     A400: '#cb6eff',
     A700: '#c255ff',
-    'contrastDefaultColor': 'light',
 };
 
 export default amethyst;

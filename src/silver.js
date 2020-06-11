@@ -13,7 +13,6 @@ const silver = {
     A200: '#ffffff',
     A400: '#e1f3ff',
     A700: '#c8e9ff',
-    'contrastDefaultColor': 'dark',
 };
 
 export default silver;
